@@ -1,4 +1,4 @@
-module github.com/uptrace/opentelemetry-go-extra/otelzap/example
+module github.com/swordkee/otelzap/example
 
 go 1.18
 
